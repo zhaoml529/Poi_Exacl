@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Poi_Exacl"
+  id="myeclipse.1335349447679"
+  context-root="/bank"
+  j2ee-spec="5.0"
+  archive="Poi_Exacl.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
